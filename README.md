@@ -1,10 +1,9 @@
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository!
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, this repository highlights industry best practices in data engineering and analytics.
 
 ## 📁 Project Structure
-
 - Scripts/
   - bronze/ → raw data ingestion
   - silver/ → cleaned and transformed data
@@ -43,6 +42,13 @@ These insights empower stakeholders with key business metrics, enabling strategi
 - Discovered customer segments with higher purchase frequency
 - Analyzed seasonal trends impacting sales performance
 - Highlighted underperforming product categories
+
+## 🧠 Business Impact
+
+This project enables:
+- Data-driven decision making
+- Improved visibility into sales performance
+- Identification of high-value customers and products
 
 <img width="992" height="710" alt="image" src="https://github.com/user-attachments/assets/6503bd7a-20a6-4de6-941f-35db71f8dc62" />
 
