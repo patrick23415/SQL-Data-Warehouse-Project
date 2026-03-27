@@ -58,4 +58,4 @@ This project enables:
 
 📌 Inspiration
 
-This project was inspired by Data with Baraa. The data warehouse was recreated independently for learning and portfolio purposes.
+This project was inspired by Data with Baraa. The data warehouse was recreated independently for learning and portfolio purposes. Credit to DatabyBaraa for the exploratory data analysis/advanced analytics projects as well. 
