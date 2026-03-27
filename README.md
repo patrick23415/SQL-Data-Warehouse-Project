@@ -56,4 +56,6 @@ This project enables:
 
 <img width="1709" height="675" alt="Screenshot 2026-03-27 015836" src="https://github.com/user-attachments/assets/685c1fb0-0cb2-4f6d-bd18-9dc4f2613aee" />
 
+📌 Inspiration
 
+This project was inspired by Data with Baraa. The data warehouse was recreated independently for learning and portfolio purposes.
