@@ -1,4 +1,6 @@
 # Data Warehouse and Analytics Project
+## 🚀 Overview
+End-to-end SQL data warehouse project using bronze, silver, and gold layers to transform raw ERP/CRM data into business-ready insights.
 
 Welcome to the **Data Warehouse and Analytics Project** repository!
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, this repository highlights industry best practices in data engineering and analytics.
@@ -9,14 +11,14 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
   - silver/ → cleaned and transformed data
   - gold/ → analytics-ready data model
   - EDA and Advanced Analytic Scripts
-- Test scripts- quality checks for data consistency, accuracy, and standardization across the 'silver'/'gold' layer
+- Test scripts: quality checks for data consistency, accuracy, and standardization across the 'silver'/'gold' layer
 - Datasets/ → source CSV files (ERP & CRM)
 - Docs- Documents created along the way such as updating the Data Flow diagram and Data Architecture, etc
 - Analytics/ → SQL queries for insights
 
 **Building the Data Warehouse (Data Engineering)** 
 
-**Objective-** Develop a modern data warehouse using SQL Servers to consolidate sales data enabling analytical reporting and informed decision making 
+**Objective:** Develop a modern data warehouse using SQL Servers to consolidate sales data enabling analytical reporting and informed decision making 
 
 **Specifications**
 
@@ -28,7 +30,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 **BI: Analytics & Reporting (Data Analysis)**
 
-**Objective:** Develop SQL- based analytics to deliver detailed insights into 
+**Objective:** Develop SQL-based analytics to deliver detailed insights into 
 
 - **Consumer behavior**
 - **Product Performance**
