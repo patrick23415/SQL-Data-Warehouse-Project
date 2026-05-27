@@ -38,7 +38,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-## 📊 Key Insights (Not Complete UPDATE BEFORE PUBLISHING)
+## 📊 Key Insights 
 
 - Identified top-performing products contributing to the majority of revenue
 - Discovered customer segments with higher purchase frequency
